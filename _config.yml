@@ -18,7 +18,7 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /workspaces/jet8130.github.io/assets/images/Landing.jpg
+heroimage: /jet8130.github.io/assets/images/Landing.jpg
 # Link to OG: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 # Social Media and Contact
@@ -26,7 +26,7 @@ heroimage: /workspaces/jet8130.github.io/assets/images/Landing.jpg
 email: julie8130@rit.edu
 facebook_username: 
 twitter_username: 
-instagram_username: 
+instagram_username: julianntulayan
 linkedin_username: 
 github_username:  
 youtube_channel_id: 
