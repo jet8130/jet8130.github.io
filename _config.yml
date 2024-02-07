@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: 'julie.tulayan.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: jet8130.github.io
+baseurl: 'jet8130.github.io'
 
 # Title of the Site
 title: Julie Tulayan
@@ -25,10 +25,10 @@ heroimage: vscode-remote://codespaces%2Bsolid-eureka-x55jqpqr74g63p5w7/workspace
 # If you don't want to use any icon, you can leave them blank.
 email: julie8130@rit.edu
 facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
+twitter_username: 
+instagram_username: 
+linkedin_username: 
+github_username:  
 youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
 reddit_username: /
 behance_username: /
