@@ -44,7 +44,7 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: Julie Tulayan
 # URL for the Image of the Author
-author-image: assets/images/headshot icon.png
+author-image: /assets/images/headshot icon.png
 # 60 Words About the Author
 author-about: I'm a third-Year Global Business Management major trying to navigate life at a nerdy tech school. 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
