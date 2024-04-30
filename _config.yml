@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'https://'
+url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 'julie.tulayan.io'
+baseurl: 
 
 # Title of the Site
 title: Julie Tulayan
